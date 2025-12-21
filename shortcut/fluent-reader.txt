@@ -1,0 +1,3 @@
+## https://github.com/yang991178/fluent-reader/wiki/Support#keyboard-shortcuts
+Fluent Reader: Hide this post  | h
+Fluent Reader: Open in browser | b

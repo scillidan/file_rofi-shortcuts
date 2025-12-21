@@ -1,0 +1,5 @@
+## https://github.com/edrlab/thorium-reader/wiki/Keyboard-shortcuts
+Readium: Enable touch-to-play  | Spc
+Readium: Next audio phrase     | u
+Readium: Pause                 | m
+Readium: Previous audio phrase | y

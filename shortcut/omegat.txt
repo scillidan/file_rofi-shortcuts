@@ -1,0 +1,7 @@
+## https://omegat.sourceforge.io/manual-standard/en/chapter.menus.html
+## https://omegat.sourceforge.io/manual-standard/en/chapter.instant.start.guide.html#app.shortcuts.streamline.workflow
+OmegaT: Create alternative translation | C-s
+OmegaT: Insert match pane              | C-i
+OmegaT: Insert tag                     | C-Spc
+OmegaT: Next untranslated segment      | C-u
+OmegaT: Search                         | C-f

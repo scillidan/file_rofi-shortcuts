@@ -1,0 +1,8 @@
+## https://dystroy.org/broot/conf_verbs/#shortcuts-and-verb-search
+broot: edit                     | F2/:e
+broot: Edit with sublime text   | C-e
+broot: Filter                   | c/<text>
+broot: open                     | C-o/:ol
+broot: Open with directory opus | C-o
+broot: Terminal                 | C-t
+broot: toggle_preview           | C-p

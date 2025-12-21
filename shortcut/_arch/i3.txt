@@ -1,0 +1,6 @@
+## https://i3wm.org/docs/refcard.html
+i3: fullscreen             | Mod-f
+i3: Open dmenu             | Mod-d
+i3: Open terminal          | Mod-Etr
+i3: Resize                 | Mod-r
+i3: Vertical or horizontal | Mod-e

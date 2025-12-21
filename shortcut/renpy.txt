@@ -1,0 +1,3 @@
+## https://www.renpy.org/wiki/renpy/Help
+renpy: Autoreload     | R
+renpy: Image load log | F4

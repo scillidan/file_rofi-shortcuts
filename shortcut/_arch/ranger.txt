@@ -1,0 +1,44 @@
+## https://debian-install-notes.pages.dev/files/ranger-keybinds_quinton.pdf
+Ranger: (Bookmark) Create bookmark $letter          | m$
+Ranger: (Bookmark) Delete bookmark $letter          | um$
+Ranger: (Bookmark) Go to a bookmark                 | `/'
+Ranger: (Bookmark) Go to home                       | gh
+Ranger: (Command) Change file permissions           | chmod
+Ranger: (Command) Disk usage current directory      | du
+Ranger: (Command) Execute range command             | :
+Ranger: (Command) Execute shell command             | !
+Ranger: (File) Change sort order                    | o
+Ranger: (File) Cut                                  | dd
+Ranger: (File) Delete                               | Del
+Ranger: (File) Next match                           | n
+Ranger: (File) Open                                 | Etr
+Ranger: (File) Open file with                       | r
+Ranger: (File) Paste                                | pp
+Ranger: (File) Prev match                           | N
+Ranger: (File) Rename current file                  | cw
+Ranger: (File) Search for files                     | /
+Ranger: (File) Toggle settings                      | z
+Ranger: (File) View hidden files                    | zh
+Ranger: (File) Yank/Copy                            | yy
+Ranger: (Movement) Down                             | j
+Ranger: (Movement) Go t bottom of list              | G
+Ranger: (Movement) Go to top of list                | gg
+Ranger: (Movement) Half page down                   | J
+Ranger: (Movement) Half page up                     | K
+Ranger: (Movement) History Back                     | H
+Ranger: (Movement) History Forward                  | L
+Ranger: (Movement) Parent directory                 | h
+Ranger: (Movement) Subdirectory                     | l
+Ranger: (Movement) Up                               | k
+Ranger: (Subst) Example for substitution            | :bulkrename %s
+Ranger: (Subst) Substitute current directory        | %d
+Ranger: (Subst) Substitute currently selected files | %s
+Ranger: (Subst) Substitute currently tagged files   | %t
+Ranger: (Subst) Substitute highlighted file         | %f
+Ranger: (Tab) Close current tab                     | C-w
+Ranger: (Tab) Create new tab                        | C-n
+Ranger: (Tab) goto/create $ tab                     | A-$
+Ranger: (Tab) Next tab                              | Tab
+Ranger: (Tab) Previous tab                          | S-Tab
+Ranger: Focus ranger                                | <CMD>-F1
+Ranger: Unzip selected file (Uncompress)            | 1l
