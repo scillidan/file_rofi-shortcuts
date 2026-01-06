@@ -1,6 +1,6 @@
 ## https://zellij.dev/documentation/keybindings-keys.html
 Zellij: New tab    | C-t
-Zellij: New window | C-p Up/Down/Left/Right d
+Zellij: New window | C-p Up/Dn/Lt/Rt d
 Zellij: Paste      | C-S-v
-Zellij: Resize     | C-n Up/Down/Left/Right Etr
-Zellij: Swith tab  | A-Left/Right
+Zellij: Resize     | C-n Up/Dn/Lt/Rt Etr
+Zellij: Swith tab  | A-Lt/Rt
